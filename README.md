@@ -15,6 +15,13 @@
 - 📬 How to reach me: [giovanalimaoliveira05@gmail.com](mailto:giovanalimaoliveira05@gmail.com)
 - 📝 [Resume](https:).
 
+### Facts About Me
+- I'm a big fan of Formula One.
+- I'm a beginner mugs collector.
+- My favorite book is Battle Royale by Koushun Takami.
+- I write stories in my free time.
+
+
 ### Programming languages
 
 <p>
