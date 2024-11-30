@@ -4,7 +4,7 @@
 - Tenho 19 anos
 - Curso Análise e Desenvolvimento de Sistemas
 - Moro em São Paulo
-- Atualmente estudo JavaScript e Lógica de Programação
+- Atualmente estudo JavaScript e Tailwind CSS
   
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovana-lima53)
